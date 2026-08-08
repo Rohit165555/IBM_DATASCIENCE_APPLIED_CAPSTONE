@@ -51,6 +51,3 @@ the factors associated with successful first-stage landings.
 - Scikit-learn
 - Jupyter Notebook
 
-## Repository Structure
-
-See the folders above for each stage of the project.
